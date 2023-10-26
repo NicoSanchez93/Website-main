@@ -1,0 +1,35 @@
+
+* {
+    margin: 0; padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: none; border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.video {
+    width: 100%;
+    height: 400px;
+}
+
+.why-choose-us {
+    padding: 20px;
+}
+
+.Titulo {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 700; 
+    font-size: 28px;
+    text-align: center;
+}
+
